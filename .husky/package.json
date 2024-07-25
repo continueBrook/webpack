@@ -70,7 +70,6 @@
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^4.0.0",
     "eslint": "^8.57.0",
-    "eslint-plugin-react": "^7.35.0",
     "eslint-webpack-plugin": "^4.2.0",
     "file-loader": "^6.2.0",
     "glob": "^8.0.3",
