@@ -1,9 +1,0 @@
-body {
-    transform: translateX(100px);
-    --color-primary: 'burlywood'
-}
-
-div {
-    color: var(--color-primary);
-    transition: all .5s;
-}
