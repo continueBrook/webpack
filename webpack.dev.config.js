@@ -5,7 +5,7 @@ module.exports = {
         'main1':'./src/main.js'
     },
     output:{
-        filename:'./build.js',
+        filename:'./build.js',123132
         path:path.resolve('./dist')
     },
     watch:true,
